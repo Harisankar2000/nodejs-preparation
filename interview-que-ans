@@ -309,6 +309,8 @@ Imagine you’re downloading a large video file. Instead of waiting for the enti
 
 -----------------------------------------------------------------------------------
 18. What is the purpose of the `process` object in Node.js?
+Answer: The process object in Node.js is a global object that provides information about, and control over, the current Node.js process. It’s a key part of managing a Node.js application’s environment, including input/output, environment variables, and runtime lifecycle events.
+
 
 -----------------------------------------------------------------------------------
 19. How can you manage environment variables in Node.js applications?
